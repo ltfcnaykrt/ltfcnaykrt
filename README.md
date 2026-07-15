@@ -15,18 +15,18 @@
 
 ### 👨‍💻 `> whoami`
 
-- 🎓 **Eğitim:** Yönetim Bilişim Sistemleri (MIS) - 4. Sınıf Öğrencisi @ Necmettin Erbakan Üniversitesi
-- 🚀 **Deneyim:** Genel Direktör, Başkan Yardımcısı @ InnoMIS Community
-- 💡 **Odak Noktaları:** İş Analizi, Sistem Analizi, Veri Modelleme, SDLC ve Süreç Optimizasyonu
-- 🌍 **Lokasyon:** İstanbul, Türkiye *(Open to Relocation)*
-- ⚡ **Misyon:** Karmaşık iş gereksinimlerini teknik özelliklere dönüştürerek iş birimleri ve teknoloji ekipleri arasında köprü kurmak.
+- 🎓 **Education:** Management Information Systems (MIS) - 4th Year Student @ Necmettin Erbakan University
+- 🚀 **Experience:** General Director, Vice President @ InnoMIS Community
+- 💡 **Focus Areas:** Business Analysis, Systems Analysis, Data Modeling, SDLC, and Process Optimization
+- 🌍 **Location:** Istanbul, Türkiye 
+- ⚡ **Mission:** Bridging the gap between business units and tech teams by translating complex business requirements into technical specifications.
 
 ---
 
-### 🛠️ `> yetkinlikler.json`
+### 🛠️ `> skills`
 
 <details open>
-  <summary><b>Veri Analizi & İş Zekası (BI)</b></summary>
+  <summary><b>Data Analysis & Business Intelligence (BI)</b></summary>
   <br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -36,7 +36,7 @@
 </details>
 
 <details open>
-  <summary><b>Programlama & Web Teknolojileri</b></summary>
+  <summary><b>Programming & Web Technologies</b></summary>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -49,7 +49,7 @@
 </details>
 
 <details open>
-  <summary><b>Metodoloji & Araçlar</b></summary>
+  <summary><b>Methodology & Tools</b></summary>
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile_Scrum-000000?style=for-the-badge&logo=agile&logoColor=white" />
@@ -59,27 +59,27 @@
 
 ---
 
-### 🚀 `> projeler_ve_deneyimler`
+### 🚀 `> projects_and_experience`
 
-| Proje / Organizasyon | Rol & Açıklama | Odak Alanı |
+| Project / Organization | Role & Description | Focus Area |
 | :--- | :--- | :--- |
-| **InnoMIS Community** | İK, Teknoloji ve Organizasyon departmanları arası iş akışlarını optimize etme. Organizasyonel büyüme için KPI yönetimi ve veri destekli karar mekanizmaları kurgulama. | `Leadership` `KPI Tracking` |
-| **MISCONNECT'26** | Konya Taş Bina'da 650+ katılımcılı zirvenin uçtan uca operasyon ve süreç yönetimi. Sektör lideri 8 konuşmacı ile stratejik iletişim ve süreç analizi. | `Process Optimization` `Agile` |
-| **MISCONNECT'25** | Etkinlik yaşam döngüsünün planlanması, bütçe ve risk yönetimi. Kaynak verimliliğini maksimize eden detaylı süreç analizi uygulamaları. | `Management` `Risk Control` |
+| **InnoMIS Community** | Optimizing workflows between HR, Tech, and Organization departments. Establishing KPIs and data-driven decision support mechanisms for organizational growth. | `Leadership` `KPI Tracking` |
+| **MISCONNECT'26** | End-to-end operational and process management for a 650+ attendee summit at Konya Taş Bina. Strategic communication and process analysis with 8 industry-leading speakers. | `Process Optimization` `Agile` |
+| **MISCONNECT'25** | Planning event lifecycle, budget, and risk management. Applied detailed process analysis to maximize resource efficiency. | `Management` `Risk Control` |
 
 ---
 
-### 📜 `> sertifikalar`
+### 📜 `> certifications`
 
-- 🏆 **Uygulamalı SQL Eğitimi** — *BTK Akademi*
-- 🏆 **Veri Bilimi için Python ve Tensorflow** — *BTK Akademi*
-- 🏆 **95+ Saatlik Komple Frontend Eğitimi (React, Angular, Vue)** — *Udemy*
-- 🏆 **Python 2026: 100 Günlük Programlama Kampı** — *Udemy*
-- 🏆 **Microsoft Excel Temelleri** — *BTK Akademi*
+- 🏆 **Applied SQL Training** — *BTK Akademi*
+- 🏆 **Python and TensorFlow for Data Science** — *BTK Akademi*
+- 🏆 **95+ Hours Complete Frontend Training (React, Angular, Vue)** — *Udemy*
+- 🏆 **Python 2026: 100 Days of Code Bootcamp** — *Udemy*
+- 🏆 **Microsoft Excel Fundamentals** — *BTK Akademi*
 
 ---
 
-### 📊 `> github_istatistikleri`
+### 📊 `> github_statistics`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ltfcnaykrt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
