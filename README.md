@@ -16,7 +16,7 @@
 ### 👨‍💻 `> whoami`
 
 - 🎓 **Eğitim:** Yönetim Bilişim Sistemleri (MIS) - 4. Sınıf Öğrencisi @ Necmettin Erbakan Üniversitesi
-- 🚀 **Deneyim:** Genel Direktör (Eski Başkan Yardımcısı) @ InnoMIS Community
+- 🚀 **Deneyim:** Genel Direktör, Başkan Yardımcısı @ InnoMIS Community
 - 💡 **Odak Noktaları:** İş Analizi, Sistem Analizi, Veri Modelleme, SDLC ve Süreç Optimizasyonu
 - 🌍 **Lokasyon:** İstanbul, Türkiye *(Open to Relocation)*
 - ⚡ **Misyon:** Karmaşık iş gereksinimlerini teknik özelliklere dönüştürerek iş birimleri ve teknoloji ekipleri arasında köprü kurmak.
