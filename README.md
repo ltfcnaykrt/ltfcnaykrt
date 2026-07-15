@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ `> yetkinlikler.json`
+### 🛠️ `> yetkinlikler`
 
 <details open>
   <summary><b>Veri Analizi & İş Zekası (BI)</b></summary>
